@@ -1,6 +1,6 @@
 # Форма регистрации v0.0.5
 
-[Ссылка на форму](https://danedavydov.github.io/form)
+[Ссылка на форму](https://danedavydov.github.io/form-validation-regexp/form)
 
 ## Форма валидирует:
 
